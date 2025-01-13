@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+
 
 
 import pandas as pd
@@ -13,7 +13,6 @@ from bs4 import BeautifulSoup
 import random
 
 
-# In[49]:
 
 
 user_agent_list=[
@@ -39,7 +38,6 @@ taxa_df['id'] = taxa_id
 taxa_df['name'] = ['0' for i in range(len(taxa_id))]
 
 
-# In[47]:
 
 
 for i in range(0, len(taxa_id)):
@@ -56,20 +54,6 @@ for i in range(0, len(taxa_id)):
         pass
 
 
-# In[48]:
 
 
 taxa_df.to_csv('corresponding_taxa.csv', index = False)
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
