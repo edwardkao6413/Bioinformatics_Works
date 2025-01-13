@@ -8,3 +8,4 @@ py script: Used to scrawling data from microbiome atlas to get Output file given
 (2) HGMA_metagenomicsData_processing.ipynb    
 Using script to process the metagenomics on HGMA    
 The procedure includes: Derive the T2D study --> low counts removal --> centered log-ratio transformation --> obtained the metagenomics data suits the further data exploration    
+Input data: sample metadata (sampleID.csv), raw absolute abundance data (vect_atlas.csv), and corresponding_taxa.csv (www.microbiomeatlas.org/downloads.php)    
