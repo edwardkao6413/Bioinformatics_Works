@@ -7,3 +7,10 @@ Some bioinformatics python script and folder
 2. `UPGMA_phylogenetic_TreeBuilding.ipynb`: Including UPGMA code for building the phylogenetic tree, and input is MSA.seq and fasta seq file, output is the phylo tree. `A2utils.py` file should be downloaded together.
 
 3. `Human Gut Microbiome Atlas/`: The comparison table of taxa id (msp_xxxx) and taxa name on Human Microbiome Atlas.
+
+4. `minimum_entropy_score.py`: An alternate scoring system based on entropy score to assess the multiple sequence alignment quality.
+![image](https://github.com/user-attachments/assets/742b29ed-1d34-4c97-b5d4-c9083896534f)
+
+5. 
+
+
