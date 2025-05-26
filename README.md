@@ -12,8 +12,11 @@ Some bioinformatics python script and folder
 ![image](https://github.com/user-attachments/assets/742b29ed-1d34-4c97-b5d4-c9083896534f)
 
 5. `Colless_imbalance.py`: Colless imbalance is a metric for the shape of phylo trees. $T_R$ and $T_L$ are the number of taxa descended from the right and left branches respectively of an interior node. $(n-1)(n-2)/2$ is the maximum possible value of the numerator, and the imbalanced value $I_c$ ranges from 0 to 1.
+
 ![image](https://github.com/user-attachments/assets/746f5a39-9b10-4a08-9367-d35232ee8304)
 
 6. 
+
+
 
 
